@@ -94,5 +94,13 @@
     "precio": 1400,
     "imagen": "https://i.postimg.cc/jS9vLKfS/Gafas_1400.jpg",
     "whatsapp": "5354433225"
+  },
+  {
+    "id": 1773078083439,
+    "nombre": "Gafas",
+    "descripcion": "",
+    "precio": 2500,
+    "imagen": "https://i.postimg.cc/2S32k313/Gafas_para_Hombre_2500.jpg",
+    "whatsapp": "5354433225"
   }
 ]
