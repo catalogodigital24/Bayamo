@@ -118,5 +118,13 @@
     "precio": 2800,
     "imagen": "https://i.postimg.cc/Sx5VJq99/Mochilas_2800.jpg",
     "whatsapp": "5354433225"
+  },
+  {
+    "id": 1773078242334,
+    "nombre": "Mochilas",
+    "descripcion": "",
+    "precio": 4000,
+    "imagen": "https://i.postimg.cc/dVXnLvCj/Mochilas_4000.jpg",
+    "whatsapp": "5354433225"
   }
 ]
