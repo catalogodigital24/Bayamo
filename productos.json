@@ -38,5 +38,13 @@
     "precio": 2000,
     "imagen": "https://i.postimg.cc/QxffZcxJ/Cintos_anchos_2000.jpg",
     "whatsapp": "5354433225"
+  },
+  {
+    "id": 1773062881682,
+    "nombre": "Cintos Finos",
+    "descripcion": "Finos",
+    "precio": 1000,
+    "imagen": "https://i.postimg.cc/Vk5Df5dh/Cintos_finos_1000.jpg",
+    "whatsapp": "5354433225"
   }
 ]
