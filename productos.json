@@ -14,5 +14,13 @@
     "precio": 2000,
     "imagen": "https://i.postimg.cc/dt55cGtn/Billeteras_2000.jpg",
     "whatsapp": "5354433225"
+  },
+  {
+    "id": 1773061828448,
+    "nombre": "Carteras",
+    "descripcion": "",
+    "precio": 5500,
+    "imagen": "https://i.postimg.cc/wTwwYDT2/Carteras_5500.jpg",
+    "whatsapp": "5354433225"
   }
 ]
