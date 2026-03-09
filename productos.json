@@ -30,5 +30,13 @@
     "precio": 2000,
     "imagen": "https://i.postimg.cc/QdV08VHv/Cintos_2000.jpg",
     "whatsapp": "5354433225"
+  },
+  {
+    "id": 1773062824097,
+    "nombre": "Cintos Anchos",
+    "descripcion": "Anchos",
+    "precio": 2000,
+    "imagen": "https://i.postimg.cc/QxffZcxJ/Cintos_anchos_2000.jpg",
+    "whatsapp": "5354433225"
   }
 ]
