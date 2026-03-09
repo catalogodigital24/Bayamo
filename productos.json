@@ -62,5 +62,13 @@
     "precio": 2000,
     "imagen": "https://i.postimg.cc/W1tXNth9/Cintos_para_hombre_2000.jpg",
     "whatsapp": "5354433225"
+  },
+  {
+    "id": 1773063712692,
+    "nombre": "Fletera",
+    "descripcion": "",
+    "precio": 2500,
+    "imagen": "https://i.postimg.cc/MpXd6Xnw/Fletera_2500.jpg",
+    "whatsapp": "5354433225"
   }
 ]
