@@ -150,5 +150,13 @@
     "precio": 4000,
     "imagen": "https://i.postimg.cc/NjVb5YXT/Mochilas_negras_4000.jpg",
     "whatsapp": "5354433225"
+  },
+  {
+    "id": 1773078464364,
+    "nombre": "Reloj Calculadora",
+    "descripcion": "Calculadora funciona perfectamente",
+    "precio": 1000,
+    "imagen": "https://i.postimg.cc/W1KShjZ6/Reloj_Calculadora_1000.jpg",
+    "whatsapp": "5354433225"
   }
 ]
