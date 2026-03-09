@@ -126,5 +126,13 @@
     "precio": 4000,
     "imagen": "https://i.postimg.cc/dVXnLvCj/Mochilas_4000.jpg",
     "whatsapp": "5354433225"
+  },
+  {
+    "id": 1773078300283,
+    "nombre": "Mochilas",
+    "descripcion": "Fashion",
+    "precio": 2800,
+    "imagen": "https://i.postimg.cc/8z3wjDvF/Mochilas_Fashion_2800.jpg",
+    "whatsapp": "5354433225"
   }
 ]
