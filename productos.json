@@ -158,5 +158,13 @@
     "precio": 1000,
     "imagen": "https://i.postimg.cc/W1KShjZ6/Reloj_Calculadora_1000.jpg",
     "whatsapp": "5354433225"
+  },
+  {
+    "id": 1773078520539,
+    "nombre": "Reloj Deportivo",
+    "descripcion": "",
+    "precio": 700,
+    "imagen": "https://i.postimg.cc/W1KShjZ7/Reloj_Deportivo_700.jpg",
+    "whatsapp": "5354433225"
   }
 ]
