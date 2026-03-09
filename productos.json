@@ -102,5 +102,13 @@
     "precio": 2500,
     "imagen": "https://i.postimg.cc/2S32k313/Gafas_para_Hombre_2500.jpg",
     "whatsapp": "5354433225"
+  },
+  {
+    "id": 1773078129405,
+    "nombre": "Loncheras",
+    "descripcion": "Para niñas y niños",
+    "precio": 1300,
+    "imagen": "https://i.postimg.cc/rwbgKc4p/Loncheras_para_niñas_y_niños_1300.jpg",
+    "whatsapp": "5354433225"
   }
 ]
