@@ -57,8 +57,8 @@
                     const textoPrecio = producto.precio > 0 ? `$${producto.precio}` : '💰 Consultar';
                     const nombreProd = producto.nombre ? producto.nombre : 'Artículo de Moda';
 
-                    // Mensaje automático inteligente para WhatsApp
-                    const mensajeBase = "Hola, vi este producto en tu catálogo y quiero consultar: " + nombreProd;
+                    // Mensaje automático inteligente para WhatsApp (ACTUALIZADO)
+                    const mensajeBase = `¡Hola! Le consulto sobre este producto:\n\n*${nombreProd}*\nPrecio: ${textoPrecio}\n\nReferencia visual: ${producto.imagen}`;
                     const mensajeCodificado = encodeURIComponent(mensajeBase);
                     const linkWa = `https://wa.me/${producto.whatsapp}?text=${mensajeCodificado}`;
 
